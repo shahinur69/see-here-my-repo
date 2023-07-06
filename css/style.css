@@ -144,3 +144,48 @@ header{
 .services-box img{
     width: 80px;
 }
+
+footer{
+    background-color: #303030;
+    padding: 100px 0px;
+    color: aliceblue;
+    height: 300px;
+}
+footer img{
+    width: 180px;
+}
+.footer-content{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.footer-text{
+    margin: 0px 50px;
+}
+.footer-text h5{
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.footer-text p{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.footer-text a{
+    color: white;
+    display: block;
+    font-size: 18px;
+    padding: 7px 0px;
+}
+.sub-title{
+    margin-bottom: 20px;
+}
+span{
+    display: block;
+    padding: 5px 0px;
+    font-size: 18px;
+}
+hr{
+    width: 1200px;
+    margin-left: 150px;
+}
